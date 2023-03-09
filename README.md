@@ -24,7 +24,7 @@ git clone https://github.com/bugman1215/yolo-watermeters.git
 ### Prerequisites
 Install all the requirements:
 ```sh
-pip3 -m install -U -r requirements.txt
+pip install -r requirements.txt
 ```
 
 <!-- USAGE EXAMPLES -->
